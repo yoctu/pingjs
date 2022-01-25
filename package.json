@@ -1,12 +1,12 @@
 {
-  "name": "locate-v2",
+  "name": "pingjs",
   "version": "1.0.0",
-  "description": "This is Locate v2 New Generation",
+  "description": "This is pingjs url monitoring",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "vsi@yoctu.com",
+  "author": "lav@yoctu.com",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
